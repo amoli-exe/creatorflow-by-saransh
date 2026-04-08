@@ -149,12 +149,11 @@ margin-top: 40px;
     padding: 5px 15px;
     border-radius: 15px;
     display: inline-block;
-    
-    
 }
 
 .about4{
-    word-spacing: 30px;
+    display: flex;
+    word-spacing: 60px;
     color: #ff5e1a;
     font-weight:600;
     font-size: 2rem;
@@ -162,5 +161,8 @@ margin-top: 40px;
 }
 
 .about5{
-    word-spacing: px;
+    display: flex;
+    list-style: none;
+    color: gray;
+    gap: 25px;
 }
